@@ -1,0 +1,21 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    background-color: #ffffff;
+}
+button,
+input,
+[tabindex] {
+    outline: none;
+    border: none;
+}
+a {
+    color: #fff;
+    text-decoration: none;
+}

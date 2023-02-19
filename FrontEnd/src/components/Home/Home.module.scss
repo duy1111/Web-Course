@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 100;
+    
+}
+
+.title{
+    color: red;
+    font-size: 2rem;
+    justify-content: center;
+    line-height: 100px;
+    text-align: center;
+}

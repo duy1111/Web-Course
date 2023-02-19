@@ -1,0 +1,29 @@
+.wrapper{
+    height: 60px;
+    width: 100%;
+    padding: 8px 12px;
+    clear: both;
+    
+}
+.avatar{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    
+
+}
+.btn-wrapper{
+    display: flex;
+    height: 100%;
+    align-items: center;
+    text-align: center;
+}
+.logout{
+    margin-right: 24px;
+}
+.user{
+    margin-right: 24px;
+}
+.dang-nhap{
+    margin-right: 24px;
+}
